@@ -1,0 +1,96 @@
+.app {
+  margin-top: 0px;
+  margin-left: -20px;
+  opacity: 1;
+}
+.circle__background {
+  margin-top: 30px;
+  margin-left: 550px;
+  width: 200px;
+  height: 200px;
+  background: #efefef 0% 0% no-repeat padding-box;
+  border-radius: 50%;
+  opacity: 1;
+}
+
+.img {
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background: transparent url("./img/ic_user.svg") 0% 0% no-repeat;
+  opacity: 1;
+}
+.title {
+  margin-left: 540px;
+  width: 311px;
+  height: 87px;
+  text-align: left;
+  letter-spacing: 0px;
+  font-size: 50px;
+  color: #0b3558;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+}
+.first__p {
+  margin-top: 60px;
+  margin-left: 38px;
+  text-align: center;
+  color: #0b3558;
+}
+.second__p {
+  position: absolute;
+  margin-top: -20px;
+  margin-left: 510px;
+  text-align: center;
+  color: #0b3558;
+}
+
+input {
+  width: 300px;
+  padding: 20px;
+  margin-top: 10px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #a2a2a2;
+  border-radius: 4px;
+  margin-left: 485px;
+  opacity: 1;
+}
+
+.img__eye {
+  width: 24px;
+  height: 24px;
+  background: transparent url("./img/ic_hide_password.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position: absolute;
+  margin-top: 25px;
+  margin-left: -30px;
+}
+.button {
+  width: 346px;
+  height: 61px;
+  color: #fff;
+  background: #003fb9 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  border: none;
+  position: absolute;
+  opacity: 1;
+  margin-top: 90px;
+  margin-left: -343px;
+  cursor: pointer;
+}
+.title1{
+  margin-left: 440px;
+  width: 60%;
+  height: 60%;
+  text-align: left;
+  letter-spacing: 0px;
+  font-size: 50px;
+  color: #0b3558;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+}
